@@ -1,1 +1,1 @@
-# This is my personal publishing source on Guthub!
+# This is my personal publishing source on Github!
